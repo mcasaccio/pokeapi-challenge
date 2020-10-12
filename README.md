@@ -12,6 +12,9 @@ Utilizado:
 Ejecutar la aplicación en el modo de desarrollo.<br />
 Abrir [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
 
+## Demo online sin build
+
+Abrir [https://mcasaccio.github.io/pokeapi-challenge](https://mcasaccio.github.io/pokeapi-challenge) para verlo en el navegador.
 
 ## Pokedex Challenge
 
