@@ -12,7 +12,7 @@ Utilizado:
 Ejecutar la aplicación en el modo de desarrollo.<br />
 Abrir [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
 
-## Demo online sin build
+## Demo online
 
 Abrir [https://mcasaccio.github.io/pokeapi-challenge](https://mcasaccio.github.io/pokeapi-challenge) para verlo en el navegador. A diferencia del código, la demo online dispone de 20 pokemones por página para aprovechar el desplazamiento del scroll-top.
 
