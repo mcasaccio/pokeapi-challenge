@@ -16,6 +16,8 @@ Abrir [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
 
 Abrir [https://mcasaccio.github.io/pokeapi-challenge](https://mcasaccio.github.io/pokeapi-challenge) para verlo en el navegador. A diferencia del código, la demo online dispone de 20 pokemones por página para aprovechar el desplazamiento del scroll-top.
 
+![img](https://i.imgur.com/SGR2jxY.gif)
+
 ## Pokedex Challenge
 
 Utilizar la [pokéapi](https://pokeapi.co/docs/v2.html) para mostrar un listado de pokémons
